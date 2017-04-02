@@ -1,0 +1,579 @@
+Purpose of the Scrum Guide
+Scrum is a framework for developing and sustaining complex products. This Guide contains the
+definition of Scrum. This definition consists of Scrum’s roles, events, artifacts, and the rules that
+bind them together. Ken Schwaber and Jeff Sutherland developed Scrum; the Scrum Guide is
+written and provided by them. Together, they stand behind the Scrum Guide.
+Definition of Scrum
+Scrum n): A framework within which people can address complex adaptive problems, while
+productively and creatively delivering products of the highest possible value.
+Scrum is:
+Lightweight Simple to understand
+Difficult to master
+Scrum is a process framework that has been used to manage complex product development
+since the early 1990s. Scrum is not a process or a technique for building products; rather, it is a
+framework within which you can employ various processes and techniques. Scrum makes clear
+the relative efficacy of your product management and development practices so that you can
+improve The Scrum framework consists of Scrum Teams and their associated roles, events, artifacts, and
+rules Each component within the framework serves a specific purpose and is essential to
+Scrum s success and usage.
+The rules of Scrum bind together the events, roles, and artifacts, governing the relationships and
+interaction between them. The rules of Scrum are described throughout the body of this
+document Specific tactics for using the Scrum framework vary and are described elsewhere.
+Scrum Theory
+Scrum is founded on empirical process control theory, or empiricism. Empiricism asserts that
+knowledge comes from experience and making decisions based on what is known. Scrum
+employs an iterative, incremental approach to optimize predictability and control risk.
+Three pillars uphold every implementation of empirical process control: transparency,
+inspection and adaptation.
+Transparency Significant aspects of the process must be visible to those responsible for the outcome.
+Transparency requires those aspects be defined by a common standard so observers share a
+common understanding of what is being seen.
+For example:
+ A common language referring to the process must be shared by all participants; and,
+ Those performing the work and those accepting the work product must share a common
+definition of “Done”.
+Inspection Scrum users must frequently inspect Scrum artifacts and progress toward a Sprint Goal to detect
+undesirable variances. Their inspection should not be so frequent that inspection gets in the way
+of the work. Inspections are most beneficial when diligently performed by skilled inspectors at
+the point of work.
+Adaptation If an inspector determines that one or more aspects of a process deviate outside acceptable
+limits and that the resulting product will be unacceptable, the process or the material being
+processed must be adjusted. An adjustment must be made as soon as possible to minimize
+further deviation.
+Scrum prescribes four formal events for inspection and adaptation, as described in the Scrum
+Events section of this document:
+ Sprint Planning
+ Daily Scrum
+ Sprint Review
+ Sprint Retrospective
+The Scrum Team
+The Scrum Team consists of a Product Owner, the Development Team, and a Scrum Master.
+Scrum Teams are self-organizing and cross-functional. Self-organizing teams choose how best to
+accomplish their work, rather than being directed by others outside the team. Cross-functional
+teams have all competencies needed to accomplish the work without depending on others not
+part of the team. The team model in Scrum is designed to optimize flexibility, creativity, and
+productivity Scrum Teams deliver products iteratively and incrementally, maximizing opportunities for
+feedback Incremental deliveries of “Done” product ensure a potentially useful version of
+working product is always available.
+The Product Owner
+The Product Owner is responsible for maximizing the value of the product and the work of the
+Development Team. How this is done may vary widely across organizations, Scrum Teams, and
+individuals The Product Owner is the sole person responsible for managing the Product Backlog. Product
+Backlog management includes:
+ Clearly expressing Product Backlog items;
+ Ordering the items in the Product Backlog to best achieve goals and missions;
+ Optimizing the value of the work the Development Team performs;
+ Ensuring that the Product Backlog is visible, transparent, and clear to all, and shows what
+the Scrum Team will work on next; and,
+ Ensuring the Development Team understands items in the Product Backlog to the level
+needed The Product Owner may do the above work, or have the Development Team do it. However, the
+Product Owner remains accountable.
+The Product Owner is one person, not a committee. The Product Owner may represent the
+desires of a committee in the Product Backlog, but those wanting to change a Product Backlog
+item s priority must address the Product Owner.
+For the Product Owner to succeed, the entire organization must respect his or her decisions. The
+Product Owner’s decisions are visible in the content and ordering of the Product Backlog. No
+one is allowed to tell the Development Team to work from a different set of requirements, and
+the Development Team isn’t allowed to act on what anyone else says.
+The Development Team
+The Development Team consists of professionals who do the work of delivering a potentially
+releasable Increment of “Done” product at the end of each Sprint. Only members of the
+Development Team create the Increment.
+Development Teams are structured and empowered by the organization to organize and
+manage their own work. The resulting synergy optimizes the Development Team’s overall
+efficiency and effectiveness.
+Development Teams have the following characteristics:
+ They are self-organizing. No one (not even the Scrum Master) tells the Development Team
+how to turn Product Backlog into Increments of potentially releasable functionality;
+ Development Teams are cross-functional, with all of the skills as a team necessary to create
+a product Increment;
+ Scrum recognizes no titles for Development Team members other than Developer,
+regardless of the work being performed by the person; there are no exceptions to this rule;
+ Scrum recognizes no sub-teams in the Development Team, regardless of particular domains
+that need to be addressed like testing or business analysis; there are no exceptions to this
+rule and,
+ Individual Development Team members may have specialized skills and areas of focus, but
+accountability belongs to the Development Team as a whole.
+Development Team Size
+Optimal Development Team size is small enough to remain nimble and large enough to
+complete significant work within a Sprint. Fewer than three Development Team members
+decrease interaction and results in smaller productivity gains. Smaller Development Teams may
+encounter skill constraints during the Sprint, causing the Development Team to be unable to
+deliver a potentially releasable Increment. Having more than nine members requires too much
+coordination Large Development Teams generate too much complexity for an empirical process
+to manage. The Product Owner and Scrum Master roles are not included in this count unless
+they are also executing the work of the Sprint Backlog.
+The Scrum Master
+The Scrum Master is responsible for ensuring Scrum is understood and enacted. Scrum Masters
+do this by ensuring that the Scrum Team adheres to Scrum theory, practices, and rules.
+The Scrum Master is a servant-leader for the Scrum Team. The Scrum Master helps those
+outside the Scrum Team understand which of their interactions with the Scrum Team are helpful
+and which aren’t. The Scrum Master helps everyone change these interactions to maximize the
+value created by the Scrum Team.
+Scrum Master Service to the Product Owner
+The Scrum Master serves the Product Owner in several ways, including:
+ Finding techniques for effective Product Backlog management;
+ Helping the Scrum Team understand the need for clear and concise Product Backlog items;
+ Understanding product planning in an empirical environment;
+ Ensuring the Product Owner knows how to arrange the Product Backlog to maximize value;
+ Understanding and practicing agility; and,
+ Facilitating Scrum events as requested or needed.
+Scrum Master Service to the Development Team
+The Scrum Master serves the Development Team in several ways, including:
+ Coaching the Development Team in self-organization and cross-functionality;
+ Helping the Development Team to create high-value products;
+ Removing impediments to the Development Team’s progress;
+ Facilitating Scrum events as requested or needed; and,
+ Coaching the Development Team in organizational environments in which Scrum is not yet
+fully adopted and understood.
+Scrum Master Service to the Organization
+The Scrum Master serves the organization in several ways, including:
+ Leading and coaching the organization in its Scrum adoption;
+ Planning Scrum implementations within the organization;
+ Helping employees and stakeholders understand and enact Scrum and empirical product
+development  Causing change that increases the productivity of the Scrum Team; and,
+ Working with other Scrum Masters to increase the effectiveness of the application of Scrum
+in the organization.
+Scrum Events
+Prescribed events are used in Scrum to create regularity and to minimize the need for meetings
+not defined in Scrum. All events are time-boxed events, such that every event has a maximum
+duration Once a Sprint begins, its duration is fixed and cannot be shortened or lengthened. The
+remaining events may end whenever the purpose of the event is achieved, ensuring an
+appropriate amount of time is spent without allowing waste in the process.
+Other than the Sprint itself, which is a container for all other events, each event in Scrum is a
+formal opportunity to inspect and adapt something. These events are specifically designed to
+enable critical transparency and inspection. Failure to include any of these events results in
+reduced transparency and is a lost opportunity to inspect and adapt.
+The Sprint
+The heart of Scrum is a Sprint, a time-box of one month or less during which a “Done”, useable,
+and potentially releasable product Increment is created. Sprints best have consistent durations
+throughout a development effort. A new Sprint starts immediately after the conclusion of the
+previous Sprint.
+Sprints contain and consist of the Sprint Planning, Daily Scrums, the development work, the
+Sprint Review, and the Sprint Retrospective.
+During the Sprint:
+ No changes are made that would endanger the Sprint Goal;
+ Quality goals do not decrease; and,
+ Scope may be clarified and re-negotiated between the Product Owner and Development
+Team as more is learned.
+Each Sprint may be considered a project with no more than a one-month horizon. Like projects,
+Sprints are used to accomplish something. Each Sprint has a definition of what is to be built, a
+design and flexible plan that will guide building it, the work, and the resultant product.
+Sprints are limited to one calendar month. When a Sprint’s horizon is too long the definition of
+what is being built may change, complexity may rise, and risk may increase. Sprints enable
+predictability by ensuring inspection and adaptation of progress toward a Sprint Goal at least
+every calendar month. Sprints also limit risk to one calendar month of cost.
+Cancelling a Sprint
+A Sprint can be cancelled before the Sprint time-box is over. Only the Product Owner has the
+authority to cancel the Sprint, although he or she may do so under influence from the
+stakeholders the Development Team, or the Scrum Master.
+A Sprint would be cancelled if the Sprint Goal becomes obsolete. This might occur if the
+company changes direction or if market or technology conditions change. In general, a Sprint
+should be cancelled if it no longer makes sense given the circumstances. But, due to the short
+duration of Sprints, cancellation rarely makes sense.
+When a Sprint is cancelled, any completed and “Done” Product Backlog items are reviewed. If
+part of the work is potentially releasable, the Product Owner typically accepts it. All incomplete
+Product Backlog Items are re-estimated and put back on the Product Backlog. The work done on
+them depreciates quickly and must be frequently re-estimated.
+Sprint cancellations consume resources, since everyone has to regroup in another Sprint
+Planning to start another Sprint. Sprint cancellations are often traumatic to the Scrum Team,
+and are very uncommon.
+Sprint Planning
+The work to be performed in the Sprint is planned at the Sprint Planning. This plan is created by
+the collaborative work of the entire Scrum Team.
+Sprint Planning is time-boxed to a maximum of eight hours for a one-month Sprint. For shorter
+Sprints the event is usually shorter. The Scrum Master ensures that the event takes place and
+that attendants understand its purpose. The Scrum Master teaches the Scrum Team to keep it
+within the time-box.
+Sprint Planning answers the following:
+ What can be delivered in the Increment resulting from the upcoming Sprint?
+ How will the work needed to deliver the Increment be achieved?
+Topic One: What can be done this Sprint?
+The Development Team works to forecast the functionality that will be developed during the
+Sprint The Product Owner discusses the objective that the Sprint should achieve and the
+Product Backlog items that, if completed in the Sprint, would achieve the Sprint Goal. The entire
+Scrum Team collaborates on understanding the work of the Sprint.
+The input to this meeting is the Product Backlog, the latest product Increment, projected
+capacity of the Development Team during the Sprint, and past performance of the Development
+Team The number of items selected from the Product Backlog for the Sprint is solely up to the
+Development Team. Only the Development Team can assess what it can accomplish over the
+upcoming Sprint.
+After the Development Team forecasts the Product Backlog items it will deliver in the Sprint, the
+Scrum Team crafts a Sprint Goal. The Sprint Goal is an objective that will be met within the
+Sprint through the implementation of the Product Backlog, and it provides guidance to the
+Development Team on why it is building the Increment.
+Topic Two: How will the chosen work get done?
+Having set the Sprint Goal and selected the Product Backlog items for the Sprint, the
+Development Team decides how it will build this functionality into a “Done” product Increment
+during the Sprint. The Product Backlog items selected for this Sprint plus the plan for delivering
+them is called the Sprint Backlog.
+The Development Team usually starts by designing the system and the work needed to convert
+the Product Backlog into a working product Increment. Work may be of varying size, or
+estimated effort. However, enough work is planned during Sprint Planning for the Development
+Team to forecast what it believes it can do in the upcoming Sprint. Work planned for the first
+days of the Sprint by the Development Team is decomposed by the end of this meeting, often to
+units of one day or less. The Development Team self-organizes to undertake the work in the
+Sprint Backlog, both during Sprint Planning and as needed throughout the Sprint.
+The Product Owner can help to clarify the selected Product Backlog items and make trade-offs.
+If the Development Team determines it has too much or too little work, it may renegotiate the
+selected Product Backlog items with the Product Owner. The Development Team may also invite
+other people to attend in order to provide technical or domain advice.
+By the end of the Sprint Planning, the Development Team should be able to explain to the
+Product Owner and Scrum Master how it intends to work as a self-organizing team to
+accomplish the Sprint Goal and create the anticipated Increment. 
+Sprint Goal
+The Sprint Goal is an objective set for the Sprint that can be met through the implementation of
+Product Backlog. It provides guidance to the Development Team on why it is building the
+Increment It is created during the Sprint Planning meeting. The Sprint Goal gives the
+Development Team some flexibility regarding the functionality implemented within the Sprint.
+The selected Product Backlog items deliver one coherent function, which can be the Sprint Goal.
+The Sprint Goal can be any other coherence that causes the Development Team to work
+together rather than on separate initiatives.
+As the Development Team works, it keeps the Sprint Goal in mind. In order to satisfy the Sprint
+Goal it implements the functionality and technology. If the work turns out to be different than
+the Development Team expected, they collaborate with the Product Owner to negotiate the
+scope of Sprint Backlog within the Sprint.
+Daily Scrum
+The Daily Scrum is a 15-minute time-boxed event for the Development Team to synchronize
+activities and create a plan for the next 24 hours. This is done by inspecting the work since the
+last Daily Scrum and forecasting the work that could be done before the next one. The Daily
+Scrum is held at the same time and place each day to reduce complexity. During the meeting,
+the Development Team members explain:
+ What did I do yesterday that helped the Development Team meet the Sprint Goal?
+ What will I do today to help the Development Team meet the Sprint Goal?
+ Do I see any impediment that prevents me or the Development Team from meeting the
+Sprint Goal?
+The Development Team uses the Daily Scrum to inspect progress toward the Sprint Goal and to
+inspect how progress is trending toward completing the work in the Sprint Backlog. The Daily
+Scrum optimizes the probability that the Development Team will meet the Sprint Goal. Every
+day the Development Team should understand how it intends to work together as a selforganizing
+team to accomplish the Sprint Goal and create the anticipated Increment by the end
+of the Sprint. The Development Team or team members often meet immediately after the Daily
+Scrum for detailed discussions, or to adapt, or replan, the rest of the Sprint’s work.
+The Scrum Master ensures that the Development Team has the meeting, but the Development
+Team is responsible for conducting the Daily Scrum. The Scrum Master teaches the
+Development Team to keep the Daily Scrum within the 15-minute time-box.
+The Scrum Master enforces the rule that only Development Team members participate in the
+Daily Scrum.
+Daily Scrums improve communications, eliminate other meetings, identify impediments to
+development for removal, highlight and promote quick decision-making, and improve the
+Development Team’s level of knowledge. This is a key inspect and adapt meeting.
+Sprint Review
+A Sprint Review is held at the end of the Sprint to inspect the Increment and adapt the Product
+Backlog if needed. During the Sprint Review, the Scrum Team and stakeholders collaborate
+about what was done in the Sprint. Based on that and any changes to the Product Backlog
+during the Sprint, attendees collaborate on the next things that could be done to optimize value.
+This is an informal meeting, not a status meeting, and the presentation of the Increment is
+intended to elicit feedback and foster collaboration.
+This is a four-hour time-boxed meeting for one-month Sprints. For shorter Sprints, the event is
+usually shorter. The Scrum Master ensures that the event takes place and that attendants
+understand its purpose. The Scrum Master teaches all to keep it within the time-box.
+The Sprint Review includes the following elements:
+ Attendees include the Scrum Team and key stakeholders invited by the Product Owner;
+ The Product Owner explains what Product Backlog items have been “Done” and what
+has not been “Done”;
+ The Development Team discusses what went well during the Sprint, what problems it
+ran into, and how those problems were solved;
+ The Development Team demonstrates the work that it has “Done” and answers
+questions about the Increment;
+ The Product Owner discusses the Product Backlog as it stands. He or she projects likely
+completion dates based on progress to date (if needed);
+ The entire group collaborates on what to do next, so that the Sprint Review provides
+valuable input to subsequent Sprint Planning;
+ Review of how the marketplace or potential use of the product might have changed
+what is the most valuable thing to do next; and,
+ Review of the timeline, budget, potential capabilities, and marketplace for the next
+anticipated release of the product.
+The result of the Sprint Review is a revised Product Backlog that defines the probable Product
+Backlog items for the next Sprint. The Product Backlog may also be adjusted overall to meet new
+opportunities Sprint Retrospective
+The Sprint Retrospective is an opportunity for the Scrum Team to inspect itself and create a plan
+for improvements to be enacted during the next Sprint.
+The Sprint Retrospective occurs after the Sprint Review and prior to the next Sprint Planning.
+This is a three-hour time-boxed meeting for one-month Sprints. For shorter Sprints, the event is
+usually shorter. The Scrum Master ensures that the event takes place and that attendants
+understand its purpose. The Scrum Master teaches all to keep it within the time-box. The Scrum
+Master participates as a peer team member in the meeting from the accountability over the
+Scrum process.
+The purpose of the Sprint Retrospective is to:
+ Inspect how the last Sprint went with regards to people, relationships, process, and
+tools  Identify and order the major items that went well and potential improvements; and,
+ Create a plan for implementing improvements to the way the Scrum Team does its
+work The Scrum Master encourages the Scrum Team to improve, within the Scrum process
+framework its development process and practices to make it more effective and enjoyable for
+the next Sprint. During each Sprint Retrospective, the Scrum Team plans ways to increase
+product quality by adapting the definition of “Done” as appropriate.
+By the end of the Sprint Retrospective, the Scrum Team should have identified improvements
+that it will implement in the next Sprint. Implementing these improvements in the next Sprint is
+the adaptation to the inspection of the Scrum Team itself. Although improvements may be
+implemented at any time, the Sprint Retrospective provides a formal opportunity to focus on
+inspection and adaptation.
+Scrum Artifacts
+Scrum s artifacts represent work or value to provide transparency and opportunities for
+inspection and adaptation. Artifacts defined by Scrum are specifically designed to maximize
+transparency of key information so that everybody has the same understanding of the artifact.
+Product Backlog
+The Product Backlog is an ordered list of everything that might be needed in the product and is
+the single source of requirements for any changes to be made to the product. The Product
+Owner is responsible for the Product Backlog, including its content, availability, and ordering.
+A Product Backlog is never complete. The earliest development of it only lays out the initially
+known and best-understood requirements. The Product Backlog evolves as the product and the
+environment in which it will be used evolves. The Product Backlog is dynamic; it constantly
+changes to identify what the product needs to be appropriate, competitive, and useful. As long
+as a product exists, its Product Backlog also exists.
+The Product Backlog lists all features, functions, requirements, enhancements, and fixes that
+constitute the changes to be made to the product in future releases. Product Backlog items have
+the attributes of a description, order, estimate and value.
+As a product is used and gains value, and the marketplace provides feedback, the Product
+Backlog becomes a larger and more exhaustive list. Requirements never stop changing, so a
+Product Backlog is a living artifact. Changes in business requirements, market conditions, or
+technology may cause changes in the Product Backlog.
+Multiple Scrum Teams often work together on the same product. One Product Backlog is used
+to describe the upcoming work on the product. A Product Backlog attribute that groups items
+may then be employed.
+Product Backlog refinement is the act of adding detail, estimates, and order to items in the
+Product Backlog. This is an ongoing process in which the Product Owner and the Development
+Team collaborate on the details of Product Backlog items. During Product Backlog refinement,
+items are reviewed and revised. The Scrum Team decides how and when refinement is done.
+Refinement usually consumes no more than 10% of the capacity of the Development Team.
+However Product Backlog items can be updated at any time by the Product Owner or at the
+Product Owner’s discretion.
+Higher ordered Product Backlog items are usually clearer and more detailed than lower ordered
+ones More precise estimates are made based on the greater clarity and increased detail; the
+lower the order, the less detail. Product Backlog items that will occupy the Development Team
+for the upcoming Sprint are refined so that any one item can reasonably be “Done” within the
+Sprint time-box. Product Backlog items that can be “Done” by the Development Team within
+one Sprint are deemed “Ready” for selection in a Sprint Planning. Product Backlog items usually
+acquire this degree of transparency through the above described refining activities.
+The Development Team is responsible for all estimates. The Product Owner may influence the
+Development Team by helping it understand and select trade-offs, but the people who will
+perform the work make the final estimate.
+Monitoring Progress Toward a Goal
+At any point in time, the total work remaining to reach a goal can be summed. The Product
+Owner tracks this total work remaining at least every Sprint Review. The Product Owner
+compares this amount with work remaining at previous Sprint Reviews to assess progress
+toward completing projected work by the desired time for the goal. This information is made
+transparent to all stakeholders.
+Various projective practices upon trending have been used to forecast progress, like burndowns,
+burn ups, or cumulative flows. These have proven useful. However, these do not replace
+the importance of empiricism. In complex environments, what will happen is unknown. Only
+what has happened may be used for forward-looking decision-making.
+Sprint Backlog
+The Sprint Backlog is the set of Product Backlog items selected for the Sprint, plus a plan for
+delivering the product Increment and realizing the Sprint Goal. The Sprint Backlog is a forecast
+by the Development Team about what functionality will be in the next Increment and the work
+needed to deliver that functionality into a “Done” Increment.
+The Sprint Backlog makes visible all of the work that the Development Team identifies as
+necessary to meet the Sprint Goal.
+The Sprint Backlog is a plan with enough detail that changes in progress can be understood in
+the Daily Scrum. The Development Team modifies the Sprint Backlog throughout the Sprint, and
+the Sprint Backlog emerges during the Sprint. This emergence occurs as the Development Team
+works through the plan and learns more about the work needed to achieve the Sprint Goal.
+As new work is required, the Development Team adds it to the Sprint Backlog. As work is
+performed or completed, the estimated remaining work is updated. When elements of the plan
+are deemed unnecessary, they are removed. Only the Development Team can change its Sprint
+Backlog during a Sprint. The Sprint Backlog is a highly visible, real-time picture of the work that
+the Development Team plans to accomplish during the Sprint, and it belongs solely to the
+Development Team.
+Monitoring Sprint Progress
+At any point in time in a Sprint, the total work remaining in the Sprint Backlog can be summed.
+The Development Team tracks this total work remaining at least for every Daily Scrum to project
+the likelihood of achieving the Sprint Goal. By tracking the remaining work throughout the
+Sprint the Development Team can manage its progress.
+Increment The Increment is the sum of all the Product Backlog items completed during a Sprint and the
+value of the increments of all previous Sprints. At the end of a Sprint, the new Increment must
+be Done,” which means it must be in useable condition and meet the Scrum Team’s definition
+of Done.” It must be in useable condition regardless of whether the Product Owner decides to
+actually release it.
+Artifact Transparency
+Scrum relies on transparency. Decisions to optimize value and control risk are made based on
+the perceived state of the artifacts. To the extent that transparency is complete, these decisions
+have a sound basis. To the extent that the artifacts are incompletely transparent, these
+decisions can be flawed, value may diminish and risk may increase.
+The Scrum Master must work with the Product Owner, Development Team, and other involved
+parties to understand if the artifacts are completely transparent. There are practices for coping
+with incomplete transparency; the Scrum Master must help everyone apply the most
+appropriate practices in the absence of complete transparency. A Scrum Master can detect
+incomplete transparency by inspecting the artifacts, sensing patterns, listening closely to what is
+being said, and detecting differences between expected and real results.
+The Scrum Master’s job is to work with the Scrum Team and the organization to increase the
+transparency of the artifacts. This work usually involves learning, convincing, and change.
+Transparency doesn’t occur overnight, but is a path.
+Definition of “Done”
+When a Product Backlog item or an Increment is described as “Done”, everyone must
+understand what “Done” means. Although this varies significantly per Scrum Team, members
+must have a shared understanding of what it means for work to be complete, to ensure
+transparency This is the definition of “Done” for the Scrum Team and is used to assess when
+work is complete on the product Increment.
+The same definition guides the Development Team in knowing how many Product Backlog items
+it can select during a Sprint Planning. The purpose of each Sprint is to deliver Increments of
+potentially releasable functionality that adhere to the Scrum Team’s current definition of
+ Done.” Development Teams deliver an Increment of product functionality every Sprint. This
+Increment is useable, so a Product Owner may choose to immediately release it. If the definition
+of done" for an increment is part of the conventions, standards or guidelines of the
+development organization,
+all Scrum Teams must follow it as a minimum. If "done" for an increment is not a convention of
+the development organization, the Development Team of the Scrum Team must define a
+definition of “done” appropriate for the product. If there are multiple Scrum Teams working on
+the system or product release, the development teams on all of the Scrum Teams must mutually
+define the definition of “Done.”
+Each Increment is additive to all prior Increments and thoroughly tested, ensuring that all
+Increments work together.
+As Scrum Teams mature, it is expected that their definitions of “Done” will expand to include
+more stringent criteria for higher quality. Any one product or system should have a definition of
+ Done” that is a standard for any work done on it.
+End Note
+Scrum is free and offered in this Guide. Scrum’s roles, artifacts, events, and rules are immutable
+and although implementing only parts of Scrum is possible, the result is not Scrum. Scrum exists
+only in its entirety and functions well as a container for other techniques, methodologies, and
+practices Acknowledgements People Of the thousands of people who have contributed to Scrum, we should single out those who
+were instrumental in its first ten years. First there was Jeff Sutherland working with Jeff
+McKenna and Ken Schwaber working with Mike Smith and Chris Martin. Many others
+contributed in the ensuing years and without their help Scrum would not be refined as it is
+today History Ken Schwaber and Jeff Sutherland first co-presented Scrum at the OOPSLA conference in 1995.
+This presentation essentially documented the learning that Ken and Jeff gained over the
+previous few years applying Scrum.
+The history of Scrum is already considered long. To honor the first places where it was tried and
+refined we recognize Individual, Inc., Fidelity Investments, and IDX (now GE Medical).
+The Scrum Guide documents Scrum as developed and sustained for 20-plus years by Jeff
+Sutherland and Ken Schwaber. Other sources provide you with patterns, processes, and insights
+that complement the Scrum framework. These optimize productivity, value, creativity, and
+pride Extreme programming (XP) is a software development methodology which is intended to improve software quality and responsiveness to changing customer requirements. As a type of agile software development, it advocates frequent "releases" in short development cycles, which is intended to improve productivity and introduce checkpoints at which new customer requirements can be adopted.
+Other elements of extreme programming include: programming in pairs or doing extensive code review, unit testing of all code, avoiding programming of features until they are actually needed, a flat management structure, code simplicity and clarity, expecting changes in the customer's requirements as time passes and the problem is better understood, and frequent communication with the customer and among programmers.The methodology takes its name from the idea that the beneficial elements of traditional software engineering practices are taken to "extreme" levels. As an example, code reviews are considered a beneficial practice; taken to the extreme, code can be reviewed continuously, i.e. the practice of pair programming.
+Extreme programming was created by Kent Beck during his work on the Chrysler Comprehensive Compensation System (C3) payroll project. Beck became the C3 project leader in March 1996 and began to refine the development methodology used in the project and wrote a book on the methodology (in October 1999, Extreme Programming Explained was published). Chrysler cancelled the C3 project in February 2000, after seven years, when the company was acquired by Daimler-Benz.
+
+Many of extreme programming practices have been around for some time; the methodology takes "best practices" to extreme levels. For example, the "practice of test-first development, planning and writing tests before each micro-increment" was used as early as NASA's Project Mercury, in the early 1960s (Larman 2003). To shorten the total development time, some formal test documents (such as for acceptance testing) have been developed in parallel (or shortly before) the software is ready for testing. A NASA independent test group can write the test procedures, based on formal requirements and logical limits, before the software has been written and integrated with the hardware. In XP, this concept is taken to the extreme level by writing automated tests (perhaps inside of software modules) which validate the operation of even small sections of software coding, rather than only testing the larger features.
+Origins
+
+Software development in the 1990s was shaped by two major influences: internally, object-oriented programming replaced procedural programming as the programming paradigm favored by some in the industry; externally, the rise of the Internet and the dot-com boom emphasized speed-to-market and company growth as competitive business factors. Rapidly changing requirements demanded shorter product life-cycles, and were often incompatible with traditional methods of software development.
+
+The Chrysler Comprehensive Compensation System (C3) was started in order to determine the best way to use object technologies, using the payroll systems at Chrysler as the object of research, with Smalltalk as the language and GemStone as the data access layer. They brought in Kent Beck, a prominent Smalltalk practitioner, to do performance tuning on the system, but his role expanded as he noted several problems they were having with their development process. He took this opportunity to propose and implement some changes in their practices based on his work with his frequent collaborator, Ward Cunningham. Beck describes the early conception of the methods:
+
+    The first time I was asked to lead a team, I asked them to do a little bit of the things I thought were sensible, like testing and reviews. The second time there was a lot more on the line. I thought, "Damn the torpedoes, at least this will make a good article,"  asked the team to crank up all the knobs to 10 on the things I thought were essential and leave out everything else.
+
+Beck invited Ron Jeffries to the project to help develop and refine these methods. Jeffries thereafter acted as a coach to instill the practices as habits in the C3 team.
+
+Information about the principles and practices behind XP was disseminated to the wider world through discussions on the original wiki, Cunningham's WikiWikiWeb. Various contributors discussed and expanded upon the ideas, and some spin-off methodologies resulted (see agile software development). Also, XP concepts have been explained, for several years, using a hypertext system map on the XP website at "http://www.extremeprogramming.org" circa 1999.
+
+Beck edited a series of books on XP, beginning with his own Extreme Programming Explained (1999, ISBN 0-201-61641-6), spreading his ideas to a much larger audience. Authors in the series went through various aspects attending XP and its practices. The series included a book that was critical of the practices.
+Current state
+
+XP generated significant interest among software communities in the late 1990s and early 2000s, seeing adoption in a number of environments radically different from its origins.
+
+The high discipline required by the original practices often went by the wayside, causing some of these practices, such as those thought too rigid, to be deprecated or reduced, or even left unfinished, on individual sites. For example, the practice of end-of-day integration tests for a particular project could be changed to an end-of-week schedule, or simply reduced to mutually agreed dates. Such a more relaxed schedule could avoid people feeling rushed to generate artificial stubs just to pass the end-of-day testing. A less-rigid schedule allows, instead, for some complex features to be more fully developed over a several-day period. However, some level of periodic integration testing can detect groups of people working in non-compatible, tangent efforts before too much work is invested in divergent, wrong directions.
+
+Meanwhile, other agile development practices have not stood still, and XP is still evolving, assimilating more lessons from experiences in the field, to use other practices. In the second edition of Extreme Programming Explained (November 2004), five years after the first edition, Beck added more values and practices and differentiated between primary and corollary practices.
+
+Extreme Programming Explained describes extreme programming as a software-development discipline that organizes people to produce higher-quality software more productively.
+
+XP attempts to reduce the cost of changes in requirements by having multiple short development cycles, rather than a long one. In this doctrine, changes are a natural, inescapable and desirable aspect of software-development projects, and should be planned for, instead of attempting to define a stable set of requirements.
+
+Extreme programming also introduces a number of basic values, principles and practices on top of the agile programming framework.
+Activities
+
+XP describes four basic activities that are performed within the software development process: coding, testing, listening, and designing. Each of those activities is described below.
+Coding
+
+The advocates of XP argue that the only truly important product of the system development process is code  software instructions that a computer can interpret. Without code, there is no working product.
+
+Coding can also be used to figure out the most suitable solution. Coding can also help to communicate thoughts about programming problems. A programmer dealing with a complex programming problem, or finding it hard to explain the solution to fellow programmers, might code it in a simplified manner and use the code to demonstrate what he or she means. Code, say the proponents of this position, is always clear and concise and cannot be interpreted in more than one way. Other programmers can give feedback on this code by also coding their thoughts.
+Testing
+Main article: Test-driven development
+
+Extreme programming's approach is that if a little testing can eliminate a few flaws, a lot of testing can eliminate many more flaws.
+
+    Unit tests determine whether a given feature works as intended. Programmers write as many automated tests as they can think of that might "break" the code; if all tests run successfully, then the coding is complete. Every piece of code that is written is tested before moving on to the next feature.
+    Acceptance tests verify that the requirements as understood by the programmers satisfy the customer's actual requirements.
+
+System-wide integration testing was encouraged, initially, as a daily end-of-day activity, for early detection of incompatible interfaces, to reconnect before the separate sections diverged widely from coherent functionality. However, system-wide integration testing has been reduced, to weekly, or less often, depending on the stability of the overall interfaces in the system.
+Listening
+
+Programmers must listen to what the customers need the system to do, what "business logic" is needed. They must understand these needs well enough to give the customer feedback about the technical aspects of how the problem might be solved, or cannot be solved. Communication between the customer and programmer is further addressed in the planning game.
+Designing
+
+From the point of view of simplicity, of course one could say that system development doesn't need more than coding, testing and listening. If those activities are performed well, the result should always be a system that works. In practice, this will not work. One can come a long way without designing but at a given time one will get stuck. The system becomes too complex and the dependencies within the system cease to be clear. One can avoid this by creating a design structure that organizes the logic in the system. Good design will avoid lots of dependencies within a system; this means that changing one part of the system will not affect other parts of the system.
+
+Extreme programming initially recognized four values in 1999: communication, simplicity, feedback, and courage. A new value, respect, was added in the second edition of Extreme Programming Explained. Those five values are described below.
+
+Building software systems requires communicating system requirements to the developers of the system. In formal software development methodologies, this task is accomplished through documentation. Extreme programming techniques can be viewed as methods for rapidly building and disseminating institutional knowledge among members of a development team. The goal is to give all developers a shared view of the system which matches the view held by the users of the system. To this end, extreme programming favors simple designs, common metaphors, collaboration of users and programmers, frequent verbal communication, and feedback.
+
+Extreme programming encourages starting with the simplest solution. Extra functionality can then be added later. The difference between this approach and more conventional system development methods is the focus on designing and coding for the needs of today instead of those of tomorrow, next week, or next month. This is sometimes summed up as the "You aren't gonna need it" (YAGNI) approach. Proponents of XP acknowledge the disadvantage that this can sometimes entail more effort tomorrow to change the system; their claim is that this is more than compensated for by the advantage of not investing in possible future requirements that might change before they become relevant. Coding and designing for uncertain future requirements implies the risk of spending resources on something that might not be needed, while perhaps delaying crucial features. Related to the "communication" value, simplicity in design and coding should improve the quality of communication. A simple design with very simple code could be easily understood by most programmers in the team.
+Feedback
+
+Within extreme programming, feedback relates to different dimensions of the system development:
+
+    Feedback from the system: by writing unit tests, or running periodic integration tests, the programmers have direct feedback from the state of the system after implementing changes.
+    Feedback from the customer: The functional tests (aka acceptance tests) are written by the customer and the testers. They will get concrete feedback about the current state of their system. This review is planned once in every two or three weeks so the customer can easily steer the development.
+    Feedback from the team: When customers come up with new requirements in the planning game the team directly gives an estimation of the time that it will take to implement.
+
+Feedback is closely related to communication and simplicity. Flaws in the system are easily communicated by writing a unit test that proves a certain piece of code will break. The direct feedback from the system tells programmers to recode this part. A customer is able to test the system periodically according to the functional requirements, known as user stories. To quote Kent Beck, "Optimism is an occupational hazard of programming. Feedback is the treatment."
+
+
+Several practices embody courage. One is the commandment to always design and code for today and not for tomorrow. This is an effort to avoid getting bogged down in design and requiring a lot of effort to implement anything else. Courage enables developers to feel comfortable with refactoring their code when necessary. This means reviewing the existing system and modifying it so that future changes can be implemented more easily. Another example of courage is knowing when to throw code away: courage to remove source code that is obsolete, no matter how much effort was used to create that source code. Also, courage means persistence: A programmer might be stuck on a complex problem for an entire day, then solve the problem quickly the next day, but only if they are persistent.
+
+The respect value includes respect for others as well as self-respect. Programmers should never commit changes that break compilation, that make existing unit-tests fail, or that otherwise delay the work of their peers. Members respect their own work by always striving for high quality and seeking for the best design for the solution at hand through refactoring.
+
+Adopting the four earlier values leads to respect gained from others in the team. Nobody on the team should feel unappreciated or ignored. This ensures a high level of motivation and encourages loyalty toward the team and toward the goal of the project. This value is very dependent upon the other values, and is very much oriented toward people in a team.
+
+The first version of rules for XP was published in 1999 by Don Wells at the XP website. 29 rules are given in the categories of planning, managing, designing, coding, and testing. Planning, managing and designing are called out explicitly to counter claims that XP doesn't support those activities.
+
+Another version of XP rules was proposed by Ken Auer in XP/Agile Universe 2003. He felt XP was defined by its rules, not its practices (which are subject to more variation and ambiguity). He defined two categories: "Rules of Engagement" which dictate the environment in which software development can take place effectively, and "Rules of Play" which define the minute-by-minute activities and rules within the framework of the Rules of Engagement.
+
+The principles that form the basis of XP are based on the values just described and are intended to foster decisions in a system development project. The principles are intended to be more concrete than the values and more easily translated to guidance in a practical situation.
+
+Extreme programming sees feedback as most useful if it is done frequently and promptly. It stresses that minimal delay between an action and its feedback is critical to learning and making changes. Unlike traditional system development methods, contact with the customer occurs in more frequent iterations. The customer has clear insight into the system that is being developed, and can give feedback and steer the development as needed. With frequent feedback from the customer, a mistaken design decision made by the developer will be noticed and corrected quickly, before the developer spends much time implementing it.
+
+Unit tests contribute to the rapid feedback principle. When writing code, running the unit test provides direct feedback as to how the system reacts to the changes made. This includes running not only the unit tests that test the developer's code, but running in addition all unit tests against all the software, using an automated process that can be initiated by a single command. That way, if the developer's changes cause a failure in some other portion of the system that the developer knows little or nothing about, the automated all-unit-test suite will reveal the failure immediately, alerting the developer of the incompatibility of his change with other parts of the system, and the necessity of removing or modifying his change. Under traditional development practices, the absence of an automated, comprehensive unit-test suite meant that such a code change, assumed harmless by the developer, would have been left in place, appearing only during integration testing  or worse, only in production; and determining which code change caused the problem, among all the changes made by all the developers during the weeks or even months previous to integration testing, was a formidable task.
+
+
+This is about treating every problem as if its solution were "extremely simple". Traditional system development methods say to plan for the future and to code for reusability. Extreme programming rejects these ideas.
+
+The advocates of extreme programming say that making big changes all at once does not work. Extreme programming applies incremental changes: for example, a system might have small releases every three weeks. When many little steps are made, the customer has more control over the development process and the system that is being developed.
+
+The principle of embracing change is about not working against changes but embracing them. For instance, if at one of the iterative meetings it appears that the customer's requirements have changed dramatically, programmers are to embrace this and plan the new requirements for the next iteration.
+For more details on this topic, see Extreme programming practices.
+
+The practices in XP have been heavily debated. Proponents of extreme programming claim that by having the on-site customer request changes informally, the process becomes flexible, and saves the cost of formal overhead. Critics of XP claim this can lead to costly rework and project scope creep beyond what was previously agreed or funded.
+
+Change-control boards are a sign that there are potential conflicts in project objectives and constraints between multiple users. XP's expedited methods are somewhat dependent on programmers being able to assume a unified client viewpoint so the programmer can concentrate on coding, rather than documentation of compromise objectives and constraints. This also applies when multiple programming organizations are involved, particularly organizations which compete for shares of projects.
+
+Other potentially controversial aspects of extreme programming include:
+
+    Requirements are expressed as automated acceptance tests rather than specification documents.
+    Requirements are defined incrementally, rather than trying to get them all in advance.
+    Software developers are usually required to work in pairs.
+    There is no Big Design Up Front. Most of the design activity takes place on the fly and incrementally, starting with "the simplest thing that could possibly work" and adding complexity only when it's required by failing tests. Critics compare this to "debugging a system into appearance" and fear this will result in more re-design effort than only re-designing when requirements change.
+    A customer representative is attached to the project. This role can become a single-point-of-failure for the project, and some people have found it to be a source of stress. Also, there is the danger of micro-management by a non-technical representative trying to dictate the use of technical software features and architecture.
+    Dependence upon all other aspects of XP: "XP is like a ring of poisonous snakes, daisy-chained together. All it takes is for one of them to wriggle loose, and you've got a very angry, poisonous snake heading your way."
+
+Critics have noted several potential drawbacks, including problems with unstable requirements, no documented compromises of user conflicts, and a lack of an overall design specification or document.
+Scalability
+
+Historically, XP only works on teams of twelve or fewer people. One way to circumvent this limitation is to break up the project into smaller pieces and the team into smaller groups. It has been claimed that XP has been used successfully on teams of over a hundred developers. ThoughtWorks has claimed reasonable success on distributed XP projects with up to sixty people.
+
+In 2004, industrial extreme programming (IXP) was introduced as an evolution of XP. It is intended to bring the ability to work in large and distributed teams. It now has 23 practices and flexible values.
+Severability and responses
+
+In 2003, Matt Stephens and Doug Rosenberg published Extreme Programming Refactored: The Case Against XP, which questioned the value of the XP process and suggested ways in which it could be improved. This triggered a lengthy debate in articles, Internet newsgroups, and web-site chat areas. The core argument of the book is that XP's practices are interdependent but that few practical organizations are willing/able to adopt all the practices; therefore the entire process fails. The book also makes other criticisms, and it draws a likeness of XP's "collective ownership" model to socialism in a negative manner.
+
+Certain aspects of XP have changed since the publication of Extreme Programming Refactored; in particular, XP now accommodates modifications to the practices as long as the required objectives are still met. XP also uses increasingly generic terms for processes. Some argue that these changes invalidate previous criticisms; others claim that this is simply watering the process down.
+
+Other authors have tried to reconcile XP with the older methodologies in order to form a unified methodology. Some of these XP sought to replace, such as the waterfall methodology; example: Project Lifecycles: Waterfall, Rapid Application Development, and All That. JPMorgan Chase & Co. tried combining XP with the computer programming methods of capability maturity model integration (CMMI), and Six Sigma. They found that the three systems reinforced each other well, leading to better development, and did not mutually contradict.
+Criticism
+
+Extreme programming's initial buzz and controversial tenets, such as pair programming and continuous design, have attracted particular criticisms, such as the ones coming from McBreen and Boehm and Turner., Matt Stephens and Doug Rosenberg. Many of the criticisms, however, are believed by Agile practitioners to be misunderstandings of agile development.
+
+In particular, extreme programming has been reviewed and critiqued by Matt Stephens's and Doug Rosenberg's Extreme Programming Refactored.
+
+    a methodology is only as effective as the people involved, Agile does not solve this
+    often used as a means to bleed money from customers through lack of defining a deliverable product
+    lack of structure and necessary documentation
+    only works with senior-level developers
+    incorporates insufficient software design
+    requires meetings at frequent intervals at enormous expense to customers
+    requires too much cultural change to adopt
+    can lead to more difficult contractual negotiations
+    can be very inefficient; if the requirements for one area of code change through various iterations, the same programming may need to be done several times over. Whereas if a plan were there to be followed, a single area of code is expected to be written once.
+    impossible to develop realistic estimates of work effort needed to provide a quote, because at the beginning of the project no one knows the entire scope/requirements
+    can increase the risk of scope creep due to the lack of detailed requirements documentation
+    Agile is feature-driven; non-functional quality attributes are hard to be placed as user stories.
