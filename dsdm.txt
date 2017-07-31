@@ -1,0 +1,79 @@
+Dynamic systems development method (DSDM) is an agile project delivery framework, primarily used as a software development method.[1][2] First released in 1994, DSDM originally sought to provide some discipline to the rapid application development (RAD) method.[3] In 2007 DSDM became a generic approach to project management and solution delivery[clarification needed][citation needed]. DSDM is an iterative and incremental approach that embraces principles of Agile development, including continuous user/customer involvement.
+DSDM fixes cost, quality and time at the outset and uses the MoSCoW prioritisation of scope into musts, shoulds, coulds and won't haves to adjust the project deliverable to meet the stated time constraint. DSDM is one of a number of Agile methods for developing software and non-IT solutions, and it forms a part of the Agile Alliance.
+In 2007, DSDM was rebranded 'DSDM Atern'.[4][5] The name Atern was a shortening of Arctic tern – a collaborative bird[citation needed] that can travel vast distances and epitomises many facets of the method which are natural ways of working e.g. prioritisation and collaboration.
+In 2014, DSDM dropped the branding 'Atern' and reverted to its original name in the latest version of the method in the 'DSDM Agile Project Framework'. At the same time the new DSDM manual recognised the need to operate alongside other frameworks for service delivery (esp. ITIL) PRINCE2, Managing Successful Programmes, and PMI-BOK.[6] The previous version (DSDM 4.2) had only contained guidance on how to use DSDM with Extreme Programming.
+Contents  [hide] 
+1	DSDM and the DSDM Consortium: origins
+2	DSDM Atern
+2.1	Principles
+3	Version 4.2
+4	Core techniques
+5	Roles
+6	Critical success factors
+7	Comparison to other IS development methods
+8	See also
+9	References
+10	Further reading
+11	External links
+DSDM and the DSDM Consortium: origins[edit]
+In the early 1990s, rapid application development (RAD) was spreading across the IT industry. The user interfaces for software applications were moving from the old green screens to the graphical user interfaces that are used today. New application development tools were coming on the market, such as PowerBuilder. These enabled developers to share their proposed solutions much more easily with their customers – prototyping became a reality and the frustrations of the classical, sequential (waterfall) development methods could be put to one side.
+However, the RAD movement was very unstructured: there was no commonly agreed definition of a suitable process and many organisations came up with their own definition and approach. Many major corporations were very interested in the possibilities but they were also concerned that they did not lose the level of quality in the end deliverables that free-flow development could give rise to.
+The DSDM Consortium was founded in 1994 by an association of vendors and experts in the field of software engineering and was created with the objective of "jointly developing and promoting an independent RAD framework" by combining their best practice experiences. The origins were an event organised by the Butler Group in London. People at that meeting all worked for blue-chip organisations such as British Airways, American Express, Oracle and Logica (other companies such as Data Sciences and Allied Domecq have since been absorbed by other organisations). The DSDM Consortium is a not-for-profit, vendor-independent organisation which owns and administers the DSDM framework.[7]
+DSDM Atern[edit]
+Atern is a vendor-independent approach that recognises that more projects fail because of people problems than technology. Atern’s focus is on helping people to work effectively together to achieve the business goals. Atern is also independent of tools and techniques enabling it to be used in any business and technical environment without tying the business to a particular vendor.[8]
+Principles[edit]
+There are eight principles underpinning DSDM Atern. These principles direct the team in the attitude they must take and the mindset they must adopt in order to deliver consistently.
+Focus on the business need
+Deliver on time
+Collaborate
+Never compromise quality
+Build incrementally from firm foundations
+Develop iteratively
+Communicate continuously and clearly
+Demonstrate control
+Version 4.2[edit]
+As an extension of rapid application development, DSDM focuses on information systems projects that are characterised by tight schedules and budgets. DSDM addresses the most common failures of information systems projects, including exceeding budgets, missing deadlines, and lack of user involvement and top-management commitment. By encouraging the use of RAD, however, careless adoption of DSDM may increase the risk of cutting too many corners. DSDM consists of
+Three phases: pre-project phase, project life-cycle phase, and post-project phase.
+A project life-cycle phase is subdivided into 5 stages: feasibility study, business study, functional model iteration, design and build iteration, and implementation.
+In some circumstances, there are possibilities to integrate practices from other methodologies, such as Rational Unified Process (RUP), Extreme Programming (XP), and PRINCE2, as complements to DSDM. Another agile method that has some similarity in process and concept to DSDM is Scrum.
+In July 2006, DSDM Public Version 4.2[9] was made available for individuals to view and use; however, anyone reselling DSDM must still be a member of the not-for-profit consortium.
+Core techniques[edit]
+
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (March 2016) (Learn how and when to remove this template message)
+Timeboxing – Timeboxing is one of the project techniques of DSDM. It is used to support the main goals of DSDM to realise the development of an IS on time, within budget and with the desired quality. The main idea behind timeboxing is to split up the project in portions, each with a fixed budget and a delivery date. For each portion a number of requirements are selected that are prioritised according to the MoSCoW principle. Because time and budget are fixed, the only remaining variables are the requirements. So if a project is running out of time or money the requirements with the lowest priority are omitted. This does not mean that an unfinished product is delivered, because of the pareto principle that 80% of the project comes from 20% of the system requirements, so as long as those most important 20% of requirements are implemented into the system, the system therefore meets the business needs and that no system is built perfectly in the first try.
+MoSCoW – MoSCoW represents a way of prioritising items. In the context of DSDM the MoSCoW technique is used to prioritise requirements. It is an acronym that stands for:
+MUST have this requirement to meet the business needs.
+SHOULD have this requirement if at all possible, but the project success does not rely on this.
+COULD have this requirement if it does not affect the fitness of business needs of the project.
+WON'T represents a requirement that stakeholders have agreed will not be implemented in a given release, but may be considered for the future.
+Prototyping – This technique refers to the creation of prototypes of the system under development at an early stage of the project. It enables the early discovery of shortcomings in the system and allows future users to ‘test-drive’ the system. This way good user involvement is realised, one of the key success factors of DSDM, or any System Development project for that matter.
+Testing – A third important aspect of the goal of DSDM is the creation of an IS with good quality. In order to realise a solution of good quality, DSDM advocates testing throughout each iteration. Since DSDM is a tool and technique independent method, the project team is free to choose its own test management method, for example Test Management Approach
+Workshop – One of DSDM’s project techniques that aims at bringing the different stakeholders of the project together to discuss requirements, functionalities and mutual understanding. In a workshop the stakeholders come together and discuss the project.
+Modeling – This technique is essential and purposely used to visualise the diagrammatic representation of a specific aspect of the system or business area that is being developed. Modelling gives a better understanding for DSDM project team over a business domain.
+Configuration Management – A good implementation of this configuration management technique is important for the dynamic nature of DSDM. Since there is more than one thing being handled at once during the development process of the system, and the products are being delivered frequently at a very fast rate, the products therefore need to be controlled strictly as they achieve (partial) completion.
+Roles[edit]
+
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (March 2016) (Learn how and when to remove this template message)
+There are some roles introduced within DSDM environment. It is important that the project members need to be appointed to different roles before they start to run the project. Each role has its own responsibility. The roles are:
+Executive Sponsor So called the “Project Champion”. An important role from the user organisation who has the ability and responsibility to commit appropriate funds and resources. This role has an ultimate power to make decisions.
+Visionary The one who has the responsibility to initialise the project by ensuring that essential requirements are found early on. Visionary has the most accurate perception of the business objectives of the system and the project. Another task is to supervise and keep the development process in the right track.
+Ambassador User Brings the knowledge of user community into the project, ensures that the developers receive enough amount of user’s feedbacks during the development process.
+Advisor User Can be any user that represents an important viewpoint and brings the daily knowledge of the project.
+Project Manager Can be anyone from user community or IT staff who manages the project in general.
+Technical Co-ordinator Responsible in designing the system architecture and control the technical quality in the project.
+Team Leader Leads his team and ensures that the team works effectively as a whole.
+Solution Developer Interpret the system requirements and model it including developing the deliverable codes and build the prototypes.
+Solution Tester Checks the correctness in a technical extents by performing some testings, raise defects where necessary and retest once fixed. Tester will have to give some comments and documentation.
+Scribe Responsible to gather and record the requirements, agreements, and decisions made in every workshop.
+Facilitator Responsible in managing the workshops progress, acts as a motor for preparation and communication.
+Specialist Roles Business Architect, Quality Manager, System Integrator, etc.
+Critical success factors[edit]
+Within DSDM a number of factors are identified as being of great importance to ensure successful projects.
+Factor 1: First there is the acceptance of DSDM by senior management and other employees. This ensures that the different actors of the project are motivated from the start and remain involved throughout the project.
+Factor 2: The second factor follows directly from this and that is the commitment of management to ensure end-user involvement. The prototyping approach requires a strong and dedicated involvement by end user to test and judge the functional prototypes.
+Factor 3: Then there is the project team. This team has to be composed of skillful members that form a stable union. An important issue is the empowerment of the project team. This means that the team (or one or more of its members) has to possess the power and possibility to make important decisions regarding the project without having to write formal proposals to higher management, which can be very time-consuming. In order for the project team to be able to run a successful project, they also need the right technology to conduct the project. This means a development environment, project management tools, etc.
+Factor 4: Finally DSDM also states that a supportive relationship between customer and vendor is required. This goes for both projects that are realised internally within companies or by outside contractors. An aid in ensuring a supporting relationship could be ISPL.
+Comparison to other IS development methods[edit]
+Over the years a great number of Information System Development methods have been developed and applied, divided in Structured Methods, RAD methods and object-oriented methods. Many of these methods show similarities to one another and also to DSDM. For example, Extreme Programming (XP) also has an iterative approach to IS development with extensive user involvement.
+The Rational Unified Process is a method that probably has the most in common with DSDM in that it is also a dynamic form of Information System Development. Again the iterative approach is used in this development method.
+Like XP and RUP there are many other development methods that show similarities to DSDM, but DSDM does distinguish itself from these methods in a number of ways. First there is the fact that it provides a tool and technique independent framework. This allows users to fill in the specific steps of the process with their own techniques and software aids of choice. Another unique feature is the fact that the variables in the development are not time/resources, but the requirements. This approach ensures the main goals of DSDM, namely to stay within the deadline and the budget. And last there is the strong focus on communication between and the involvement of all the stakeholders in the system. Although this is addressed in other methods, DSDM strongly believes in commitment to the project to ensure a successful outcome.

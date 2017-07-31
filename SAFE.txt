@@ -1,0 +1,63 @@
+Scaled Agile Framework (or SAFe) is an Agile software development framework designed by Scaled Agile, Inc. It consists of a knowledge base of integrated patterns intended for enterprise-scale Lean-Agile development. Its proponents consider SAFe to be scalable and modular, allowing an organization to apply it in a way that suits its need.
+Contents  [hide] 
+1	Introduction
+2	Principles
+3	Levels
+3.1	Team
+3.2	Program
+3.3	Portfolio
+3.4	Value Stream
+4	Certifications
+5	Criticism
+6	See also
+7	Notes
+8	References
+9	Further reading
+10	External links
+Introduction[edit]
+SAFe synchronizes alignment, collaboration, and delivery for large numbers of agile teams. It supports both software and systems development, from the modest scale of under 100 practitioners to the largest software solutions and complex cyber-physical systems; systems that require thousands of people to create and maintain. SAFe was developed in the field, based on helping customers solve their most challenging scaling problems. SAFe leverages three primary bodies of knowledge: Agile development, Lean product development, and systems thinking.[citation needed]
+SAFe was initially developed in the field and was elaborated in Dean Leffingwell's books and blog. Version 1.0 of SAFe, the first official release, was published in its current web site form in 2011. The latest version renamed "SAFe 4.0 for Lean Software and Systems Engineering", was released in January 2016.[1]
+Principles[edit]
+SAFe is based on a number of immutable, underlying Lean and Agile principles. These are the fundamental tenets, the basic truths and economic underpinnings that drive the roles and practices that make SAFe effective.[2] The nine SAFe principles are:
+Take an economic view
+Apply systems thinking
+Assume variability; preserve options
+Build incrementally with fast, integrated learning cycles
+Base milestones on objective evaluation of working systems
+Visualize and limit WIP, reduce batch sizes, and manage queue lengths
+Apply cadence (timing), synchronize with cross-domain planning
+Unlock the intrinsic motivation of knowledge workers
+Decentralize decision-making
+Levels[edit]
+There are two different types of SAFe 4.0 implementation, 3-Level SAFe and 4-Level SAFe. 3-Level SAFe is for smaller implementations with 100 people or less, or multiple such programs that do not require significant collaboration. 4-Level SAFe is for solutions that typically require many hundreds of practitioners to develop, deploy and maintain.
+The levels in 3-Level SAFe are Team, Program & Portfolio.
+Team[edit]
+All SAFe teams are agile teams. There is more than one type of team for example there may be a Systems Team and architectural teams, and the more common Agile development teams which are called "Agile Teams" in the SAFe methodology.[3]
+A Systems Team is a specialised team which is responsible for maintaining the development environment used by the Agile Teams and for testing solutions end-to-end.[3]
+Agile Teams typically consist of 5-9 people who work in a two-week sprints using XP (Extreme Programming) methods, and have the skills they need to define, develop, test and deliver value. However unlike traditional development scrums they do not work independently and autonomously. For example, their team backlog consists of items pulled from the Program backlog, and the length of their sprints are synchronised with all the other teams on the same "Agile Release Train" (see the next section), because the SAFe methodology is built around the idea that "basing routine development activities on a fast, synchronous cadence—a regular, predictive rhythm of important events—helps manage the inherent variability in systems development".[3]
+Program[edit]
+Together, 5-10 SAFe teams create an "Agile Release Train", with typically 50 to 125 persons, including the development teams and other stakeholders. They synchronize their iteration boundaries and deliver integrated, working systems every two weeks.
+The Program Increment (PI) is a larger, quantum measuring point, which typically occurs on a cadence of 3-5 development iterations, followed by one Innovation and Planning (IP) Iteration. Each PI concludes with a demo of all the functionality that has been developed through the course of the PI. This is accompanied by an Inspect and Adapt session that includes root cause analysis and identification of systematic improvements.
+The Innovation and Planning iteration supports the dedicated time for PI system demo, innovation and face to face PI planning. This describes the basic development cadence, which synchronizes teams to a common mission and cadence, and focuses on the frequent integration of the full system. However, Teams and Programs can release functionality at any time the market demands, including continuous delivery.
+Portfolio[edit]
+A portfolio is a collection of value streams which are budgeted via lean-agile budgeting mechanisms. The portfolio is connected to the enterprise strategy by a set of strategic themes. A portfolio kanban system is used to capture and analyze epics - large,cross-cutting initiatives that affect multiple Agile Release Trains.
+Value Stream[edit]
+4-level SAFe includes a new Value Stream level. This level is designed for those organizations which are building large systems, although any enterprise can benefit by incorporating from various value stream constructs in their implementation.
+A value stream is a long-lived series of steps used to deliver value, from concept or customer order to delivery or a tangible result for the Customer. The flow of value is triggered by some important event, perhaps a Customer purchase order or new feature request. It ends when some value has been delivered - a shipment, customer purchase, or solution deployment. A value stream contains the people who do the work, the systems they develop or operate, and the flow of information and materials. The time from the trigger to the value delivery is the lead time. Shortening the lead time shortens the time to market. That is the focus. [4]
+Certifications[edit]
+There are a number of different SAFe certifications which provide the training, knowledge and necessary tools for various levels of the Scaled Agile Framework.[5]
+SAFe Agilist (SA)
+SAFe Practitioner (SP)
+SAFe Program Consultant (SPC)
+SAFe Product Manager / Product Owner (SPMPO)
+SAFe Program Consultant Trainer (SPCT)
+SAFe Scrum Master (SSM)
+SAFe Advanced Scrum Master (SASM)
+Criticism[edit]
+The main criticism of SAFe is its lack of maturity and field testing. At least one article [6] seems to lead in that direction. The attraction of agile to developers is the freedom to be creative, yet still be accountable for your work. Scrum is about the team being responsible for itself which empowers the members. SAFe appears to erode some of that empowerment.
+SAFe has its critics among the Agile communities for example Ron Jeffries (one of the three creators of XP (Extreme Programming) and one of the 17 original signatories of the Manifesto for Agile Software Development) has stated that:
+The structure and teaching of SAFe is relentlessly top down ... SAFe’s strength is that it appeals to large organizations who are not Agile. It confirms that the Big Guys know the stuff and that all that’s needed is for the Little Guys to rush around doing what they’re told. SAFe is trying to build a framework enterprises will buy.[7]
+while Ken Schwaber (who worked with Jeff Sutherland to formulate the initial versions of the Scrum development process) wrote:
+The boys from RUP (Rational Unified Process) are back. Building on the profound failure of RUP, they are now pushing the Scaled Agile Framework (e) as a simple, one-size fits all approach to the agile organization. They have made their approach even more complicated by partnering with Rally, a tools vendor. Consultants are available to customize it for you, also just like RUP.[8]
+and David J. Anderson (who was among the first to formulate the Kanban methodology for application to IT and software development), stated:
+It is assumed that the collected set of successful practices [which comprise SAFe] will also be successful in aggregate. I would compare this assumption to individually testing the 300,000 components in a modern passenger jet aircraft and then declaring that as all the components are tested the entire plane composed of those parts is SAFE![8]
